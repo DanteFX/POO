@@ -1,0 +1,25 @@
+total 432
+drwxrwxr-x   4 dantefx dantefx   4096 oct 10 10:51 Android
+drwxrwxr-x   8 dantefx dantefx   4096 feb  5  2019 android-studio
+drwxrwxr-x   7 dantefx dantefx   4096 sep  6 07:39 AndroidStudioProjects
+-rw-rw-r--   1 dantefx dantefx     47 oct  9 22:06 bin
+drwxrwxr-x   7 dantefx dantefx   4096 mar 10  2019 blessed-contrib
+drwxr-xr-x   3 dantefx dantefx   4096 sep  2 13:10 CAR-BROWSER
+drwxrwxr-x   2 dantefx dantefx   4096 ago 16 07:43 Corte de caja
+drwxrwxr-x   3 dantefx dantefx   4096 jun 11 09:29 Desarrollo
+drwxr-xr-x   3 dantefx dantefx   4096 oct 28 10:59 Descargas
+drwxrwxr-x   3 dantefx dantefx   4096 oct 15 11:51 Desktop
+drwxr-xr-x   2 dantefx dantefx   4096 oct 24 12:59 Documentos
+-rw-r--r--   1 dantefx dantefx 225838 may 16 08:25 hatsune-miku-project-diva-f
+drwxr-xr-x   3 dantefx dantefx  12288 oct 25 09:11 Imágenes
+drwxr-xr-x  13 dantefx dantefx   4096 oct 16 07:48 ING-SOFTWARE
+-rw-r--r--   1 dantefx dantefx      0 oct 29 19:42 lp.txt
+drwxr-xr-x   4 dantefx dantefx   4096 ago 16 07:35 main
+drwxr-xr-x   4 dantefx dantefx   4096 sep  1 21:53 Música
+drwxr-xr-x 274 root    root     12288 sep  2 13:00 node_modules
+-rw-r--r--   1 root    root    107794 sep  2 13:00 package-lock.json
+drwxr-xr-x   2 dantefx dantefx   4096 feb  5  2019 Plantillas
+drwxr-xr-x   8 dantefx dantefx   4096 oct  9 22:32 PROGRAMACION
+drwxrwxr-x   7 dantefx dantefx   4096 ago  1  2018 pseint
+drwxr-xr-x   2 dantefx dantefx   4096 feb  5  2019 Público
+drwxr-xr-x   2 dantefx dantefx   4096 ago 28 16:23 Vídeos

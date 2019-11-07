@@ -1,0 +1,3 @@
+has private access
+solution 1: private to protected
+solution 2: llamar al metodo
