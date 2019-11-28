@@ -33,7 +33,7 @@ public class Girasol extends Planta{
   public boolean equals(Object o){
     if (o instanceof Girasol){
       Girasol tmp = (Girasol)o;
-      if (vida == tmp.vida && nombre == tmp.nombre && escudo == tmp.escudo && soles == tmp.soles) {
+      if (vida == tmp.vida && nombre.equals(tmp.nombre) && escudo == tmp.escudo && soles == tmp.soles) {
         return true;
       }//fin estructura if
     }//fin estructura if

@@ -60,7 +60,7 @@ public class Personaje {
     public boolean equals(Object o){
       if (o instanceof Personaje){
         Personaje tmp = (Personaje)o;
-        if (vida == tmp.vida && nombre == tmp.nombre) {
+        if (vida == tmp.vida && nombre.equals(tmp.nombre)) {
           return true;
         }//fin estructura if
       }//fin estructura if

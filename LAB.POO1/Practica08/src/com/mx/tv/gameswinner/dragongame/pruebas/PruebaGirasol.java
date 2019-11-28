@@ -44,9 +44,9 @@ public class PruebaGirasol{
         }
 
       //  o1.decVida(n);
-        System.out.println("________Cambio de vida_______");
         System.out.print(o1);
         System.out.println(o2);
+        System.out.println("________________________________");
       }//fin ciclo for o2
     }//fin ciclo for o1
   }//fin metodo main
