@@ -50,7 +50,7 @@ public class Zombie extends Personaje{
   public boolean equals(Object o){
     if (o instanceof Zombie){
       Zombie tmp = (Zombie) o;
-      if (vida == tmp.vida && nombre == tmp.nombre && tmp.ataque.getNivel() == ataque.getNivel()) {
+      if (vida == tmp.vida && nombre.equals(tmp.nombre) && tmp.ataque.getNivel() == ataque.getNivel()) {
         return true;
       }
     }

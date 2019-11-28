@@ -52,7 +52,7 @@ public class Planta extends Personaje{
   public boolean equals(Object o){
     if (o instanceof Planta){
       Planta tmp = (Planta)o;
-      if (vida == tmp.vida && nombre == tmp.nombre && tmp.escudo.getProtection() == escudo.getProtection()) {
+      if (vida == tmp.vida && nombre.equals(tmp.nombre) && tmp.escudo.getProtection() == escudo.getProtection()) {
         return true;
       }//fin estructura if
     }//fin estructura if
